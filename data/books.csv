@@ -1,0 +1,15 @@
+title,price,available,rating,upc,url,category
+Expensive book,200,1,5,expensive-book,https://books.toscrape.com/expensive.html,Category 1
+Cheap book,1,100,4,cheap-book,https://books.toscrape.com/cheap.html,Category 2
+Not many left,50,2,1,book-available-0,https://books.toscrape.com/not-available.html,Category 1
+ACIT 2515,25.15,250,5,acit2515,https://books.toscrape.com/acit2515.html,Category 1
+A pretty bad book,20,50,1,bad-rating-book,https://books.toscrape.com/bad-rating-book.html,Category 2
+
+The Hunger Games,8,1000,4,hunger-games,https://books.toscrape.com/hunger-games.html,Category 1
+1984,10,500,5,1984,https://books.toscrape.com/1984.html,Category 2
+The Kite Runner,15,200,4,kite-runner,https://books.toscrape.com/kite-runner.html,Category 1
+Bible,5,1000,5,bible,https://books.toscrape.com/bible.html,Category 2
+The Lord of the Rings,50,100,5,lord-of-the-rings,https://books.toscrape.com/lord-of-the-rings.html,Category 1
+Harry Potter,20,1000,5,harry-potter,https://books.toscrape.com/harry-potter.html,Category 2
+Fourth Wing,30,100,4,fourth-wing,https://books.toscrape.com/fourth,Category 1
+
